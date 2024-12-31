@@ -1,0 +1,6 @@
+projectKey=devsecops
+serverUrl=http://18.143.17.202:8083
+serverVersion=9.9.8.100196
+dashboardUrl=http://18.143.17.202:8083/dashboard?id=devsecops
+ceTaskId=AZQcSFH27N-6D6lMdpyS
+ceTaskUrl=http://18.143.17.202:8083/api/ce/task?id=AZQcSFH27N-6D6lMdpyS
