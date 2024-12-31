@@ -6,7 +6,7 @@ metadata:
     Backstage is an open-source developer portal that puts the developer experience first.
   annotations:
     sonarqube.org/project-key: default/devsecops
-    'jenkins.io/job-full-name': 'Miracle-6785/hello'
+    'jenkins.io/job-full-name': 'miracle/miracle'
 spec:
   type: service
   owner: user:guest
