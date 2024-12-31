@@ -7,6 +7,7 @@ metadata:
   annotations:
     sonarqube.org/project-key: default/devsecops
     'jenkins.io/job-full-name': 'miracle/miracle'
+    dependencytrack/project-id: 8c820c03-522d-4c5c-b56f-8956777fa174
 spec:
   type: service
   owner: user:guest
