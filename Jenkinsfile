@@ -8,7 +8,7 @@ pipeline {
                     // Run `pwd` to print the current working directory
                     sh 'pwd'
                     sh 'whoami'
-                    sh 'echo Miracle'
+                    sh 'echo 17:28'
                     // Run `ls` to list files in the current directory
                     sh 'ls -al'
                 }
